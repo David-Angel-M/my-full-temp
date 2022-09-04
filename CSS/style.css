@@ -1,3 +1,6 @@
 body {
-    backgorund-color: red;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald, sans-serif';
+    background-color: red;
 }
